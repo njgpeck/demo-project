@@ -1,1 +1,2 @@
 #"make a change to the first.txt by adding a line of chars and save"
+second line of funny text :>)
